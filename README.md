@@ -1,8 +1,8 @@
 # Angular-tutorial-damoqiognqiu
 
-There is a tutorial project in angular.io(https://angular.io/docs/ts/latest/quickstart.html),but some of you will run into trobules when running it,because there are something not right in those config files.
+There is a tutorial project in angular.io (https://angular.io/docs/ts/latest/quickstart.html) ,but some of you will run into trobules when running it,because there are something not right in those config files.
 
-So I started this project and formated some files.
+So I started this project and formated some files and tested the code for you.
 
 Usage:
 
@@ -19,7 +19,7 @@ You can use this project whatever you like,don't to contact me because I am so b
 
 # Angular-tutorial-damoqiognqiu
 
-angular.io(https://angular.io/docs/ts/latest/quickstart.html)上面有一个新手项目，但是这个项目的配置文件可能存在一些错误，所以你们clone之后可能会遇到一些问题。
+angular.io (https://angular.io/docs/ts/latest/quickstart.html)，上面有一个新手项目，但是这个项目的配置文件可能存在一些错误，所以你们clone之后可能会遇到一些问题。
 
 我修改了配置文件，格式化了一些代码，做好了测试之后传上来供大家学习。
 
