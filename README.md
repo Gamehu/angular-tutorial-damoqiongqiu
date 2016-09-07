@@ -1,4 +1,4 @@
-![image](https://github.com/damoqiongqiu/angular-tutorial-damoqiongqiu/raw/master/images/vim-screenshot.jpg)
+![image](https://github.com/damoqiongqiu/angular-tutorial-damoqiongqiu/raw/master/images/1.png)
 
 # Angular-tutorial-damoqiongqiu
 
