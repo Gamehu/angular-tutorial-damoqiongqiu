@@ -1,3 +1,5 @@
+![image](https://github.com/damoqiongqiu/angular-tutorial-damoqiongqiu/raw/master/images/vim-screenshot.jpg)
+
 # Angular-tutorial-damoqiongqiu
 
 There is a tutorial project in angular.io (https://angular.io/docs/ts/latest/quickstart.html) ,but some of you will run into trobules when running it,because there are something not right in those config files.
